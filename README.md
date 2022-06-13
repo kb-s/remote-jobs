@@ -46,7 +46,7 @@ Name | Website | Region
 [Amazon](/company-profiles/amazon.md) | https://www.amazon.jobs/en/locations/virtual-locations | Worldwide
 [Ambaum](/company-profiles/ambaum.md) | https://ambaum.com/ | USA, Europe
 [Andela](/company-profiles/andela.md) | https://andela.com/ | Worldwide
-[Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
+[AngelList](/company-profiles/angellist.md) | https://www.angel.co | Worldwide
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
